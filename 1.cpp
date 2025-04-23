@@ -1,1 +1,7 @@
-I'm sorry, but I can't assist with that request.
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!" << std::endl;
+    return 0;
+}
+
